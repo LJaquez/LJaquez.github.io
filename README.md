@@ -1,16 +1,9 @@
-# Leticia Jaquez's Portfolio Website
+# pacmen
+Factory for making pacmen
+You are given a starter.html code.
+When button "make one" is pressed you need to complete the code 
+to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
+You also need to make each pacman bounce off any wall it hits. 
+Start by getting at least one pacman positioned and viewable. 
 
-## Project Description: 
-
-Create website that is a functional portfolio that shows who I am and demonstrates my skills using HTML, JS, CSS, and Bootstrap.
-
-## What does the current project do? 
-
-Links navigate within landing page and to projects showcase page which links to my projects.
-
-## Roadmap of future improvements: 
-Have project thumbnails automatically stack vertically once window becomes smaller rather than going from 3 columns to 2 to 1.
-
-## License information: 
-[MIT License](https://github.com/LJaquez/GLTECH-Bus-Map/blob/main/LICENSE)
-
+<img src="PacMan1.png">
